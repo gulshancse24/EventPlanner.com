@@ -1,0 +1,7 @@
+@media (max-width: 768px) {
+    /* Keep only non-navbar responsive styles */
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+    /* ... other non-navbar responsive styles ... */
+}
